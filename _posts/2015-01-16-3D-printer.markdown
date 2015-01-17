@@ -7,12 +7,12 @@ categories: git remote
 ###3D Printer
 I have been collecting parts for a 3D printer wherever I can find them (junk printers, scrap lumber).  I have collected steppers, smooth rods, threaded rods and some wood. So now my next steps are to design the chassis and drive mechanisms.  I had this drawn on a sheet of paper but have misplaced that paper.  I am going to look at using a high strength fishing line to drive the X and Y axis.  
 
-Going foward:
+Going foward
 * Create an accurate drawing with measurements
 * Acquire components to move X and Y axis
 * Test electronics
 
-Items to acquire:
+Items to acquire
 * Hotend (J-Head most likely)
 * High tensile strength nylon fishing line
 
