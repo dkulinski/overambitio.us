@@ -18,4 +18,4 @@ Items to acquire:
 * Hotend (J-Head most likely)
 * High tensile strength nylon fishing line
 
-When I am finished I hope to end up with something that looks similar to this: ![Wolfstrap]( {{ site.url }}/assets/Wolfstrap.jpg)
+When I am finished I hope to end up with something that looks similar to this: ![Wolfstrap]( {{ site.url }}/assets/Wolfstrap.jpg "Wolfstrap Printer")
