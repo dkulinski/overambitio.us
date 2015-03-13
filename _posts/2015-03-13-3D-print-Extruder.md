@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Printer X axis
+title: 3D Printer Extruder
 date: 2015-03-13 14:51:00
 categories: 3D printer progress extruder
 ---
