@@ -13,4 +13,4 @@ Pictures:
 ![Printer]( {{ site.url }}/assets/20150501_151109.jpg "Repstrap Printer")
 
 Videos:
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Za3SDKBgZjM" frameborder="0" allowfullscreen></iframe>
+{% youtube Za3SDKBgZjM %}
