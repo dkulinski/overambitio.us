@@ -13,4 +13,3 @@ Pictures:
 ![Printer]( {{ site.url }}/assets/20150501_151109.jpg "Repstrap Printer")
 
 Videos:
-{% youtube Za3SDKBgZjM %}
