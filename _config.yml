@@ -9,3 +9,10 @@ twitter_username: dkulinski
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highligher: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
